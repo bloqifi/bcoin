@@ -9,3 +9,6 @@ coverage/
 yarn.lock
 package-lock.json
 webpack.*.js
+# Dependency directories
+node_modules/
+jspm_packages/
