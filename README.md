@@ -8,7 +8,7 @@ JavaScript and C/C++ for Node.js.
 
 Bcoin is well tested and aware of all known consensus rules. It is currently
 used in production as the consensus backend and wallet system for
-[purse.io][purse].
+[bloqifi.com][Bloqifi].
 
 ## Uses
 
